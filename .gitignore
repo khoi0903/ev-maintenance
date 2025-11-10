@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -36,3 +37,9 @@ coverage/
 # OS files
 .DS_Store
 Thumbs.db
+=======
+node_modules
+package-lock.json
+.env
+packages.json
+>>>>>>> 2d9bdb16cec4487f85dbc0770b0cbaa23d95f836
