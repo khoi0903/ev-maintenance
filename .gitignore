@@ -41,5 +41,9 @@ Thumbs.db
 node_modules
 package-lock.json
 .env
+<<<<<<< HEAD
 packages.json
 >>>>>>> 2d9bdb16cec4487f85dbc0770b0cbaa23d95f836
+=======
+package.json
+>>>>>>> 96c1f1a6f39fe8a96a39805031db1214e0dc0681
